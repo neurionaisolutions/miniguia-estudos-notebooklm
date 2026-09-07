@@ -27,7 +27,7 @@ A Tuba Sinfônica é o mais jovem dos metais graves da orquestra moderna, criada
 
 <img width="2752" height="1536" alt="O_Universo_da_Tuba_Sinfônica (1)" src="https://github.com/user-attachments/assets/cfea2986-9d1e-4ff7-9b23-6077f89b7f27" />
 
-- **Miniguia PDF:** “Tuba Sinfônica: Do Iniciante ao Avançado”.  
+- **Miniguia JPG:** “Tuba Sinfônica: Do Iniciante ao Avançado”.  
 
 ---
 
@@ -80,5 +80,5 @@ Este repositório representa um projeto de estudo ativo, documentando não apena
 
 ## 🚀 Como usar este repositório
 1. Leia o `README.md` para entender o contexto.  
-2. Consulte os PDFs e infográficos na pasta `docs/`.  
+2. Consulte os JPGs e infográficos na pasta `docs/`.  
 3. Explore os prompts na pasta `prompts/` para reutilizar em futuras revisões.  
